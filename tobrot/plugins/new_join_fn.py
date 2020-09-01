@@ -41,7 +41,6 @@ async def help_message_f(client, message):
     await message.reply_text("""Welcome To This Group 😘\n\n And also don't forget to fork this repo: <a href="https://github.com/CyberBoyAyush/TorrentLeech-Gdrive">Deploy Link 🛡️</a>""", disable_web_page_preview=True)
 
 
-
 async def rename_message_f(client, message):
     inline_keyboard = []
     inline_keyboard.append([
